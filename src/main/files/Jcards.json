@@ -1,0 +1,44 @@
+{
+  "cards": [
+    {
+      "name": "Master Card",
+      "prefix": "51",
+      "length": "16"
+    },
+    {
+      "name": "Master Card",
+      "prefix": "52",
+      "length": "16"
+    },
+    {
+      "name": "Master Card",
+      "prefix": "53",
+      "length": "16"
+    },
+    {
+      "name": "Master Card",
+      "prefix": "54",
+      "length": "16"
+    },
+    {
+      "name": "Master Card",
+      "prefix": "55",
+      "length": "16"
+    },
+    {
+      "name": "Visa",
+      "prefix": "4",
+      "length": "16"
+    },
+    {
+      "name": "American Express",
+      "prefix": "34",
+      "length": "15"
+    },
+    {
+      "name": "American Express",
+      "prefix": "37",
+      "length": "15"
+    }
+  ]
+}
